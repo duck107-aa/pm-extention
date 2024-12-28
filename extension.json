@@ -1,0 +1,13 @@
+{
+    "id": "locationExtension",
+    "name": "Location Getter",
+    "blocks": [
+        {
+            "opcode": "getLocation",
+            "blockType": "command",
+            "text": "Get my location",
+            "arguments": {}
+        }
+    ],
+    "menus": {}
+}
